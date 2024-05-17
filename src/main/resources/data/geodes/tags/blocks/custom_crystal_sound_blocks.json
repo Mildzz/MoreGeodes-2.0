@@ -1,0 +1,20 @@
+{
+	"replace": false,
+	"values": [
+		"geodes:emerald_crystal_block",
+		"geodes:budding_emerald",
+		"geodes:quartz_crystal_block",
+		"geodes:budding_quartz",
+		"geodes:diamond_crystal_block",
+		"geodes:echo_block",
+		"geodes:budding_echo_block",
+		"geodes:lapis_crystal_block",
+		"geodes:budding_lapis",
+		"geodes:rose_quartz_crystal_block",
+		"geodes:budding_rose_quartz",
+		"geodes:bismuth_block",
+		"geodes:budding_bismuth_block",
+		"geodes:pearl_crystal_block",
+		"geodes:budding_pearl"
+	]
+}

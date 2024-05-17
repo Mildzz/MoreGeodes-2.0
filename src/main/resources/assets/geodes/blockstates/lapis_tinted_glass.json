@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geodes:block/lapis_tinted_glass"
+    }
+  }
+}

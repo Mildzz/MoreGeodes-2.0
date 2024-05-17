@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "geodes:emerald_cluster",
+        "geodes:diamond_cluster",
+        "geodes:echo_cluster",
+        "geodes:quartz_cluster",
+        "geodes:lapis_cluster",
+        "geodes:rose_quartz_cluster",
+        "geodes:bismuth_cluster",
+        "geodes:pearl_cluster"
+    ]
+}

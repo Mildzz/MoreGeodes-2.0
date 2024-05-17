@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geodes:block/rose_quartz_crystal_block"
+    }
+  }
+}
